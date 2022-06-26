@@ -44,4 +44,5 @@
   "emmet.includeLanguages": {
     "erb": "html"
   },
+  "editor.formatOnSave": true,
 }
